@@ -1,0 +1,6 @@
+aliedit.sh:阿里巴巴支付安全控件
+cpio.sh:解压缩cpio格式的initrd
+deletelog.sh:删除日志脚本
+finduser.sh:循环读取
+gzip.sh：压缩制作cpio格式initrd
+inet.sh：手动配置网络方法
